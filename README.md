@@ -24,8 +24,8 @@ Exploration of inline assembly and System V AMD64 ABI calling conventions.
 - Follow System V AMD64 ABI
 - Manage register clobbering
 
-#### Part B: Fibonacci Function in Assembly
-- Implemented Fibonacci calculation function
+#### Part B: Prime Function in Assembly
+- Implemented Prime calculation function
 - Follow System V AMD64 calling convention
 
 ## Build Instructions
