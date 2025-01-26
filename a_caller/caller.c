@@ -9,7 +9,7 @@
 // Do not change the functionality or the signature of the function to be called.
 // Do not modify this file outside the TODO section.
 
-// Function to be called:
+// Function to be called:;
 int32_t replaceChars(char* string, size_t string_len, const char* find, const char* replace);
 
 int main(int argc, char **argv)
