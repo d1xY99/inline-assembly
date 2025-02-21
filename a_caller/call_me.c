@@ -3,7 +3,7 @@
 // There is nothing to do in this file.
 // Changes in this file will not be considered in the test system.
 
-// This function has to be called.
+// This function has to be called..
 /**
  * @brief Replaces all occurrences of the character 'find' in the string 'string' with the character 'replace'.
  *
